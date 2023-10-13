@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T09:06:40.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="9yLGRTCFPtwqKA05bRlH" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T09:09:24.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="ALHBmHGdAJJQ-tCDNeCv" version="21.7.4" type="github">
   <diagram name="第 1 页" id="fiKJ9lqTYXxWAvNPmrsd">
     <mxGraphModel dx="664" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,6 +89,9 @@
         </mxCell>
         <mxCell id="_5U7wSPRQ4AFinGdphqA-37" value="查询所有的设备信息&lt;br&gt;AP设备信息和pc端信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="895" y="315" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5U7wSPRQ4AFinGdphqA-38" value="说明&lt;br&gt;:MarkerServiceImpl.getMarkers&lt;br&gt;把数据装到markerInfos&lt;br&gt;真正的距离是在TermLocationMessageReceiver" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="360" width="190" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
