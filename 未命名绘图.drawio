@@ -121,13 +121,13 @@
         <mxCell id="cRIDIg__2pv5pi8HhlCb-71" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;arrowWidth=0.31644551668677595;arrowSize=0.22083333333333285;" vertex="1" parent="1">
           <mxGeometry x="550" y="495.63" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cRIDIg__2pv5pi8HhlCb-45" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Tahoma&quot;&gt;学业管理模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cRIDIg__2pv5pi8HhlCb-45" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Tahoma&quot;&gt;菜谱模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="358" y="488.81" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cRIDIg__2pv5pi8HhlCb-72" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Tahoma&quot;&gt;学业管理模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cRIDIg__2pv5pi8HhlCb-72" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Tahoma&quot;&gt;用户模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="421" y="489.75" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cRIDIg__2pv5pi8HhlCb-73" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Tahoma&quot;&gt;学业管理模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cRIDIg__2pv5pi8HhlCb-73" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Tahoma&quot;&gt;笔记模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="490" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cRIDIg__2pv5pi8HhlCb-74" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Tahoma&quot;&gt;学业管理模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
